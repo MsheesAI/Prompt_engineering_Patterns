@@ -8,3 +8,7 @@ Prompt engineering is the art and science of designing and optimizing prompts to
 
 ## What is a prompt for AI?
 In the context of AI, a prompt is the input you provide to the model to elicit a specific response. This can take various forms, ranging from simple questions or keywords to complex instructions, code snippets, or even creative writing samples. The effectiveness of your prompt directly influences the quality and relevance of the AI's output.
+
+
+credit : GOOGLE
+source : GOOGLE-CLOUD
